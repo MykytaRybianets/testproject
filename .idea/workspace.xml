@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b62434c-0479-463a-97f3-4feb992f56d5" name="Changes" comment="hello vistula and rest of the world, i guess">
+      <change beforePath="$PROJECT_DIR$/src/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helloworld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SimpleSourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Helloworld.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000278970302" />
+      <entry key="MS500" value="1.0468791588046118" />
+      <entry key="S2" value="2.187568398257127" />
+      <entry key="S5" value="3.436894558047746" />
+      <entry key="S10" value="4.116892402108835" />
+      <entry key="S30" value="4.696273308126717" />
+      <entry key="S60" value="5.284974300689217" />
+      <entry key="M2" value="7.261107003059558" />
+      <entry key="M5" value="12.943838440203756" />
+      <entry key="M10" value="21.634111682816883" />
+      <entry key="M15" value="28.15497392347715" />
+      <entry key="M30" value="38.856397053641885" />
+      <entry key="H1" value="46.70612640794355" />
+      <entry key="H2" value="51.50031642488236" />
+      <entry key="H4" value="54.155219181821344" />
+      <entry key="D1" value="56.512066012255474" />
+      <entry key="W1" value="56.929948712854674" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.404905744801027E-184" />
+      <entry key="S5" value="4.933046961958265E-74" />
+      <entry key="S10" value="2.2210463664584455E-37" />
+      <entry key="S30" value="6.05601779037318E-13" />
+      <entry key="S60" value="7.79947364130739E-7" />
+      <entry key="M2" value="9.538451204592647E-4" />
+      <entry key="M5" value="0.10863778969529497" />
+      <entry key="M10" value="0.6833270517532354" />
+      <entry key="M15" value="1.3063186970114007" />
+      <entry key="M30" value="2.5373709779865035" />
+      <entry key="H1" value="3.555827975076209" />
+      <entry key="H2" value="4.214801766230676" />
+      <entry key="H4" value="4.590180472423535" />
+      <entry key="D1" value="4.929171636185029" />
+      <entry key="W1" value="4.989818004355915" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.5128697778126E-5" />
+      <entry key="MS500" value="0.17766366634951142" />
+      <entry key="S2" value="1.6406788972092738" />
+      <entry key="S5" value="3.1138043408865497" />
+      <entry key="S10" value="3.9273939675744276" />
+      <entry key="S30" value="4.625372432533536" />
+      <entry key="S60" value="5.248408510484874" />
+      <entry key="M2" value="7.243377202694958" />
+      <entry key="M5" value="13.043049124026721" />
+      <entry key="M10" value="22.307908640396505" />
+      <entry key="M15" value="29.451438177201798" />
+      <entry key="M30" value="41.38534176573089" />
+      <entry key="H1" value="50.25627850097984" />
+      <entry key="H2" value="55.71180409268564" />
+      <entry key="H4" value="58.74360653554972" />
+      <entry key="D1" value="61.440918272222234" />
+      <entry key="W1" value="61.91972056692547" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KOM4aQykKs3iNcOiQS6fAyQVcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Helloworld.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Helloworld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Helloworld" />
+      <module name="testproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b62434c-0479-463a-97f3-4feb992f56d5" name="Changes" comment="" />
+      <created>1791423973173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791423973173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello vistula and rest of the world, i guess" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello vistula and rest of the world, i guess" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
